@@ -44,7 +44,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 #include <opencv2/imgproc/imgproc.hpp>
 
 #include <boost/filesystem.hpp>
-#include <boost/algorithm/algorithm.hpp>
+#include <boost/detail/algorithm.hpp>
 #include <boost/algorithm/string.hpp>
 
 #include <eigen3/Eigen/Dense>
